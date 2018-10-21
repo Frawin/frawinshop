@@ -1,0 +1,70 @@
+{
+  "getNewsList": [
+    {
+      "id": 1,
+      "title": "2018年1月，茂名市许志晖市长莅临中国电信广东公司参观指导",
+      "url": "http://starcraft.com"
+    },
+    {
+      "id": 2,
+      "title": "2018年1月，党日活动",
+      "url": "http://warcraft.com"
+    },
+    {
+      "id": 3,
+      "title": "2017年10月13日，中国电信集团刘爱力董事长莅临中国电信广东公司视察指导",
+      "url": "http://overwatch.com"
+    },
+    {
+      "id": 4,
+      "title": "2017年8月25日，南航集团莅临中国电信广东公司参观",
+      "url": "http://hearstone.com"
+    }
+  ],
+  "login": {
+    "username": "yudongdong",
+    "userId": 123123
+  },
+  "getPrice": {
+    "amount": 678
+  },
+  "createOrder": {
+    "orderId": "6djk979"
+  },
+  "checkOrder": {
+    "status": "1"
+  },
+  
+  
+  "getOrderList": {
+    "list": [
+      {
+        "orderId": "ddj123",
+        "product": "数据统计",
+        "version": "高级版",
+        "period": "1年",
+        "buyNum": 2,
+        "date": "2018-10-10",
+        "amount": "500元"
+      },
+      {
+        "orderId": "yuj583",
+        "product": "流量分析",
+        "version": "户外版",
+        "period": "3个月",
+        "buyNum": 1,
+        "date": "2018-10-11",
+        "amount": "2200元"
+      },
+      {
+        "orderId": "pmd201",
+        "product": "广告发布",
+        "version": "商铺版",
+        "period": "3年",
+        "buyNum": 12,
+        "date": "2018-11-11",
+        "amount": "7890元"
+      }
+    ]
+  }
+}
