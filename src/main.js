@@ -18,7 +18,7 @@ Vue.use(VueRouter)
 Vue.use(VueResource)
 	/* eslint-disable no-new */
 let router = new VueRouter({
-	mode: 'history',
+	
 	routes: [{
 		path: '/',
 		component: IndexPage,
